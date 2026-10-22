@@ -1,0 +1,116 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="U13hH_tNMS7h8na2tUa-">
+    <mxGraphModel dx="3133" dy="2026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4rvRvnNdku4j2dbkepuI-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#666666;verticalAlign=top;align=left;spacingLeft=10;fontSize=13;arcSize=2;" value="&lt;b&gt;Контур «Diamond Universe»&lt;/b&gt;" vertex="1">
+          <mxGeometry height="1200" width="1420" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-2" parent="1" style="text;html=1;fontSize=13;align=left;" value="&lt;b&gt;Внешние системы&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="280" x="1520" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=44;fontSize=11;arcSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;ИС «Алмазы»&lt;/b&gt;&lt;br&gt;&lt;i&gt;существующая, без доработок&lt;/i&gt;&lt;hr&gt;планирование работ&lt;br&gt;присвоение идентификаторов&lt;br&gt;подготовка ведомостей&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: менеджер по отбору&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-4" parent="1" style="shape=document;size=0.08;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=8;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; Реестр отбора и оцифровки&lt;/b&gt;&lt;br&gt;&lt;i&gt;Excel по утверждённому шаблону&lt;/i&gt;&lt;hr&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; отбор алмазов для цифрового аукциона&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; категоризация камней (готовность&lt;br&gt;для передачи на аукцион)&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; планирование и отслеживание работ&lt;br&gt;по оцифровке&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; ведомость передачи камней в лабораторию&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: менеджер по отбору&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="420" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=44;fontSize=11;arcSize=6;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="&lt;b&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; ИС «Лаборатория»&lt;/b&gt;&lt;br&gt;&lt;i&gt;новая, внешний подрядчик&lt;/i&gt;&lt;hr&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; оцифровка алмазов (в соответствии&lt;br&gt;с требованиями экспертов)&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; защищённая передача результатов&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: специалист лаборатории&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="1520" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=44;fontSize=11;arcSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;ИС «Логистика»&lt;/b&gt;&lt;br&gt;&lt;i&gt;существующая, без доработок&lt;/i&gt;&lt;hr&gt;перевозка алмазов покупателю по стране&lt;br&gt;и за границу&lt;br&gt;&lt;font color=&quot;#1565C0&quot;&gt;&lt;b&gt;⚑&lt;/b&gt;&lt;/font&gt; отправка алмазов в лабораторию&lt;br&gt;и возврат в офис (оформляется&lt;br&gt;как обычная перевозка)&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: логист&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="60" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-7" parent="1" style="shape=document;size=0.08;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=8;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; Реестр результатов оцифровки&lt;/b&gt;&lt;br&gt;&lt;i&gt;Excel по утверждённому шаблону&lt;/i&gt;&lt;hr&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; связь камня с цифровым представлением&lt;br&gt;(ID камня + ссылки на файлы в облаке)&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; описание камней для аукциона&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: менеджер аукциона&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="1140" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=44;fontSize=11;arcSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;ИС «Бухгалтерия»&lt;/b&gt;&lt;br&gt;&lt;i&gt;существующая, без доработок&lt;/i&gt;&lt;hr&gt;ведение контрактов&lt;br&gt;актирование и оплата услуг&lt;br&gt;компаний-перевозчиков&lt;br&gt;&lt;font color=&quot;#1565C0&quot;&gt;&lt;b&gt;⚑&lt;/b&gt;&lt;/font&gt; актирование и оплата услуг&lt;br&gt;лаборатории (ввод по акту вручную)&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: бухгалтер&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="60" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=44;fontSize=11;arcSize=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;ИС «Аукцион»&lt;/b&gt;&lt;br&gt;&lt;i&gt;существующая, без доработок&lt;/i&gt;&lt;hr&gt;проведение аукциона (офлайн)&lt;br&gt;&lt;font color=&quot;#1565C0&quot;&gt;&lt;b&gt;⚑&lt;/b&gt;&lt;/font&gt; проведение аукциона (онлайн):&lt;br&gt;удалённое участие покупателей,&lt;br&gt;лоты со ссылками на данные в облаке&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: менеджер аукциона&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="1140" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=44;fontSize=11;arcSize=6;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" value="&lt;b&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; Облачный провайдер&lt;/b&gt;&lt;br&gt;&lt;i&gt;новый внешний сервис,&lt;br&gt;только промежуточное решение&lt;/i&gt;&lt;hr&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; хранение данных оцифровки&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; публикация данных о камнях&lt;br&gt;для клиентов&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; разграничение доступа покупателей&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Роль: менеджер провайдера&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="1520" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-11" parent="1" style="shape=document;size=0.08;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;spacingRight=8;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; Акт услуг лаборатории&lt;/b&gt;&lt;br&gt;&lt;i&gt;Excel по утверждённому шаблону&lt;/i&gt;&lt;hr&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; акт выполненных работ&lt;br&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; счёт-фактура лаборатории&lt;br&gt;&lt;br&gt;&lt;i&gt;Роль: бухгалтер&lt;/i&gt;" vertex="1">
+          <mxGeometry height="190" width="280" x="60" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-12" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="44" width="24" x="304" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-13" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="44" width="24" x="1764" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="44" width="24" x="304" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-15" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="44" width="24" x="304" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-16" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=11;" value="" vertex="1">
+          <mxGeometry height="44" width="24" x="1384" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=11;" value="Покупатель" vertex="1">
+          <mxGeometry height="44" width="24" x="1850" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-18" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-17" style="endArrow=none;dashed=1;dashPattern=1 3;html=1;" target="4rvRvnNdku4j2dbkepuI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-19" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-4" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; ID камней, ведомости&lt;br&gt;вручную (выгрузка)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-20" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-5" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; «Алмазы» → «Лаборатория»:&lt;br&gt;ID камней, ведомость передачи&lt;br&gt;вручную, защищённый канал">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-21" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-6" value="&lt;font color=&quot;#1565C0&quot;&gt;&lt;b&gt;⚑&lt;/b&gt;&lt;/font&gt; документы о перевозке, в т.ч.&lt;br&gt;в лабораторию и обратно&lt;br&gt;автоматически (существующая)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-22" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-8" value="данные оплаты услуг перевозчика&lt;br&gt;автоматически (существующая)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-23" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-7" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; «Лаборатория» → «Аукцион»:&lt;br&gt;описание камней, файлы оцифровки&lt;br&gt;вручную, защищённый канал">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="325" />
+              <mxPoint x="1280" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-24" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-11" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; «Лаборатория» → «Бухгалтерия»:&lt;br&gt;акт, счёт-фактура&lt;br&gt;вручную">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="240" />
+              <mxPoint x="740" y="1055" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-25" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-8" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; акт, счёт-фактура&lt;br&gt;вручную (ввод бухгалтером)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-26" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-10" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; файлы оцифровки&lt;br&gt;вручную, публикуют сотрудники">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-27" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-9" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; «Алмазы» → «Аукцион»:&lt;br&gt;состав лотов, ID камней&lt;br&gt;вручную">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="325" />
+              <mxPoint x="1100" y="325" />
+              <mxPoint x="1100" y="727" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-28" edge="1" parent="1" source="4rvRvnNdku4j2dbkepuI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=10;labelBackgroundColor=#ffffff;jumpStyle=arc;jumpSize=10;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4rvRvnNdku4j2dbkepuI-9" value="&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; описание камней, ссылки на облако&lt;br&gt;вручную (ввод менеджером)">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;fontSize=11;fillColor=#f5f5f5;strokeColor=#999999;" value="&lt;b&gt;Легенда&lt;/b&gt;&lt;hr&gt;&lt;font color=&quot;#2E7D32&quot;&gt;&lt;b&gt;✚&lt;/b&gt;&lt;/font&gt; новое (система, функция, интеграция)&lt;br&gt;&lt;font color=&quot;#1565C0&quot;&gt;&lt;b&gt;⚑&lt;/b&gt;&lt;/font&gt; изменяемое (новое использование без доработки)&lt;br&gt;&lt;font color=&quot;#C62828&quot;&gt;&lt;b&gt;✖&lt;/b&gt;&lt;/font&gt; выводимое&lt;br&gt;───── автоматическая интеграция&lt;br&gt;- - - - ручная интеграция&lt;br&gt;&lt;font color=&quot;#6c8ebf&quot;&gt;■&lt;/font&gt; существующая ИС &amp;nbsp;&lt;font color=&quot;#82b366&quot;&gt;■&lt;/font&gt; новая внешняя&lt;br&gt;&lt;font color=&quot;#d6b656&quot;&gt;■&lt;/font&gt; Excel-реестр (утверждённый шаблон)&lt;br&gt;Стрелка: от инициатора к вызываемой системе" vertex="1">
+          <mxGeometry height="190" width="300" x="1520" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="4rvRvnNdku4j2dbkepuI-30" parent="1" style="shape=note;size=14;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacingLeft=8;spacingTop=4;fontSize=11;fillColor=#ffffff;strokeColor=#999999;" value="&lt;b&gt;Допущения&lt;/b&gt;&lt;hr&gt;• существующие ИС не дорабатываются&lt;br&gt;• «вручную» — обмен файлами Excel по утверждённым&lt;br&gt;шаблонам через защищённый канал&lt;br&gt;• данные в облаке публикуют сотрудники компании&lt;br&gt;• покупатели смотрят данные в облаке&lt;br&gt;и участвуют в торгах ИС «Аукцион» удалённо" vertex="1">
+          <mxGeometry height="150" width="300" x="1520" y="1170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
